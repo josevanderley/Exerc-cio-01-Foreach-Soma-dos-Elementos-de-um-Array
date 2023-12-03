@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\bin\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.exe.config
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\bin\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.exe
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\bin\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.pdb
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\obj\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\obj\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\obj\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.exe
+C:\Users\Ornare\source\repos\Exercício 01 Foreach  Soma dos Elementos de um Array\obj\Debug\Exercício 01 Foreach  Soma dos Elementos de um Array.pdb
